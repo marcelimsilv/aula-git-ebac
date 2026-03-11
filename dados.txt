@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Marcelo
+-Profissão: autonomo
+-Cidade: tibau do sul 
+-O que faz nas horas vaga: surfo
+-Feedback sobre o curso Qualidade de Software: exelente e dificil
+-Feedback sobre a plataforma de estudo da EBAC: boa!
 
 Obrigado!!!
 Exercício EBAC Git
